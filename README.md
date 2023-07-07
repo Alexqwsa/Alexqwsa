@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Alexqwsa
-- 👀 I’m interested in modding
-- 🌱 I’m currently learning how to to something and programming
+- hi im @Alexqwsa
+- im trying to learn modding and programming
