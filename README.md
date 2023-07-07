@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alexqwsa
+- 👀 I’m interested in modding
+- 🌱 I’m currently learning how to to something and programming
