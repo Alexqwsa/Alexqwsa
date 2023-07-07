@@ -9,9 +9,6 @@
 
 - Fun fact **i dont know what im doing**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexqwsa&theme=highcontrast" alt="alexqwsa" /></p>
