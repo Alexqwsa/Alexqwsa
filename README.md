@@ -13,6 +13,5 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexqwsa&show_icons=true&theme=tokyonight&locale=en" alt="alexqwsa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexqwsa&theme=highcontrast" alt="alexqwsa" /></p>
