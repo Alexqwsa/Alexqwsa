@@ -1,5 +1,5 @@
 <h1 align="center">hi, im Alexqwsa</h1>
-<h3 align="center">a pizza tower fan that tries to do something</h3>
+<h3 align="center">a pizza tower fan that tries to do something but absolutely fails</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexqwsa&label=Profile%20views&color=0e75b6&style=flat" alt="alexqwsa" /> </p>
 
