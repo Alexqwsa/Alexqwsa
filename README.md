@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexqwsa&label=Profile%20views&color=0e75b6&style=flat" alt="alexqwsa" /> </p>
 
-- I’m currently learning **modding, programming**
+- I’m currently learning **nothing**
 
 - Fun fact **alexqwsa does nothing**
 
