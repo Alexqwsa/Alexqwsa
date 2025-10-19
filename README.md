@@ -4,6 +4,7 @@
 ### mostly (very) active
 [discord friend link](https://discordapp.com/users/369161148005744642)
 [imsilly.fyi](https://imsilly.fyi/@Alexqwsa)
+[roblox](https://www.roblox.com/users/366078425/profile)
 ### inactive
 [twitter](https://x.com/Alexqwsa)
 
