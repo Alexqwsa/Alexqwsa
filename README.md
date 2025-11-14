@@ -10,3 +10,5 @@
 
 ## random stuff
 ![hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=908&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
+
+![cat in bag](https://github.com/Alexqwsa/Alexqwsa/blob/main/catinbag-4x.png?raw=true)
