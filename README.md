@@ -1,3 +1,5 @@
+![usernamegif](https://raw.githubusercontent.com/Alexqwsa/Alexqwsa/refs/heads/main/username.gif)
+
 # hi im alexqwsa
  > i do random stuff
 ## socials and contacts
