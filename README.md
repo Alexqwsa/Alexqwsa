@@ -7,6 +7,10 @@
 [discord friend link](https://discordapp.com/users/369161148005744642)
 [catsocial.fyi](https://catsocial.fyi/@Alexqwsa)
 [roblox](https://www.roblox.com/users/366078425/profile)
+
+### half active
+[waf.moe](https://waf.moe/blog/alexqwsa)
+
 ### inactive
 [twitter](https://x.com/Alexqwsa)
 
