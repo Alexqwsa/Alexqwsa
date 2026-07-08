@@ -9,7 +9,7 @@
 [roblox](https://www.roblox.com/users/366078425/profile)
 
 ### half active
-[waf.moe](https://waf.moe/blog/alexqwsa)
+idk
 
 ### inactive
 [twitter](https://x.com/Alexqwsa)
